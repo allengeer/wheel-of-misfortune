@@ -9,7 +9,7 @@
         "ID": "1",
         "title": "OpenShift Outage",
         "difficulty": "4",
-        "scenario": "Datacom advises that due to a major incident, the OpenShift Production and NPE Clusters will be out for a period of 2 days."
+        "scenario": "We are advised that due to a major incident, the OpenShift Production and NPE Clusters will be out for a period of 2 days."
     },
     {
         "ID": "2",
@@ -39,7 +39,7 @@
         "ID": "6",
         "title": "Data Change Fail",
         "difficulty": "2",
-        "scenario": "Passports has raised an incident saying that they have been advised they incorrectly issued a passport to a person but had the wrong name. You remember the name because you did a manual data change to the register regarding that name."
+        "scenario": "An incident is raised saying that they have been advised they incorrectly issued a document to a person but had the wrong name. You remember the name because you did a manual data change to the register regarding that name."
     },
     // {
     //     "ID": "6",
