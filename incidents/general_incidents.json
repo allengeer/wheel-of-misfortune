@@ -1,10 +1,4 @@
 [
-    // {
-    //     "ID": "1",
-    //     "title": "Public Data Leak",
-    //     "difficulty": "4",
-    //     "scenario": "Stuart comes by and says \"Hey have you seen this tweet?\" -  @KileyKiwi says 'Hey @DIANZ I just submitted my Citizenship application online and it keeps showing that I uplaoded someone elses passport and personal data! NOT SECURE! This is very uncool.'"
-    // },
     {
         "ID": "1",
         "title": "OpenShift Outage",
@@ -41,12 +35,6 @@
         "difficulty": "2",
         "scenario": "An incident is raised saying that they have been advised they incorrectly issued a document to a person but had the wrong name. You remember the name because you did a manual data change to the register regarding that name."
     },
-    // {
-    //     "ID": "6",
-    //     "title": "K2 Outage",
-    //     "difficulty": "2",
-    //     "scenario": "K2 Has Reported a significant outage affecting all of their customers. K2 is failing all availability checks in all environments."
-    // },
     {
         "ID": "7",
         "title": "iDAL API Issue",
