@@ -19,27 +19,27 @@
     },
     {
         "ID": "4",
-        "title": "Register Problems",
+        "title": "Beervirus Apocalypse",
         "difficulty": "4",
-        "scenario": "A customer has recently attended a ceremony, but has been rejected for a passport on the basis they are not a citizen. They have raised an issue with the service desk."
+        "scenario": "The BeerVirus has infected New Zealand and everyone is ordered to not leave their homes for 2 months."
     },
     {
         "ID": "5",
-        "title": "Liveness Failure",
+        "title": "NZ Post Outage",
         "difficulty": "3",
-        "scenario": "You are recieving reports that folks are unable to submit an application because they cannot complete the liveness check."
+        "scenario": "NZ Post API is not responding and applications are being received with incomplete addresses."
     },
     {
         "ID": "6",
-        "title": "Data Change Fail",
+        "title": "Register DB Patching",
         "difficulty": "2",
-        "scenario": "An incident is raised saying that they have been advised they incorrectly issued a document to a person but had the wrong name. You remember the name because you did a manual data change to the register regarding that name."
+        "scenario": "Our Partner advises that the Register's Database servers are going to be migrated and will be unavailable for two days."
     },
     {
         "ID": "7",
-        "title": "iDAL API Issue",
+        "title": "Real Me Outage",
         "difficulty": "1",
-        "scenario": "Sally South has filed a ticket in the Service Desk stating that the Sequence Numbers on the iDAL Payloads are no longer being populated. As a result, the iDAL is rejecting payloads."
+        "scenario": "We are advised that RealMe is experiencing an outage due to rouge coder named Thomas. The outage is expected to be for more than one day."
     },
     {
         "ID": "8",
