@@ -19,9 +19,9 @@
     },
     {
         "ID": "4",
-        "title": "Beervirus Apocalypse",
+        "title": "Win The Lottery",
         "difficulty": "4",
-        "scenario": "The BeerVirus has infected New Zealand and everyone is ordered to not leave their homes for 2 months."
+        "scenario": "The Support Team put together a lotto pool and surprise they won $49 million dollars. We all quit our jobs and retire to a life of luxury."
     },
     {
         "ID": "5",
@@ -37,9 +37,9 @@
     },
     {
         "ID": "7",
-        "title": "Real Me Outage",
+        "title": "Service Account Expiration",
         "difficulty": "1",
-        "scenario": "We are advised that RealMe is experiencing an outage due to rouge coder named Thomas. The outage is expected to be for more than one day."
+        "scenario": "Multiple services are reporting failures to accessing Azure KeyVault."
     },
     {
         "ID": "8",
